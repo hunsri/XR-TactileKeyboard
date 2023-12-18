@@ -4,6 +4,8 @@ Please note that this package is meant to be a baseline for own implementations.
 *Expect a limited feature set!*</br>
 However, it can be used to facilitate basic keyboard inputs in XR.
 
+![Keyboard](https://github.com/hunsri/XR-TactileKeyboard/assets/51961152/fe2ef951-4940-428b-b0ce-59b99c420b9b)
+
 ## Installation
 Download the Unity Package and install it into your project.</br>
 Done!
@@ -12,7 +14,9 @@ Done!
 A demo scene can be found under `Assets/XR-TactileKeyboard/Scenes`</br>
 Upon entering you will be asked to install `Text Mesh Pro`</br>
 
-With compatible controllers you can use the grip buttons to control the finger pose! 
+With compatible controllers you can use the grip buttons to control the finger pose!
+
+![Keyboard Input](https://github.com/hunsri/XR-TactileKeyboard/assets/51961152/2900b2cd-5f12-43b1-bc3e-aefe5936be9a)
 
 ## The project depends on the following packages:
 
